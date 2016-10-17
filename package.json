@@ -1,0 +1,23 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~3.4.4",
+    "node-schedule": "^1.1.1",
+    "node-telegram-bot-api": "^0.23.3",
+    "ytdl-core": "^0.7.17"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "ssh://57b5d0bf7628e1480c0000d3@telegrambot-bluu.rhcloud.com/~/git/telegrambot.git/"
+  },
+  "description": ""
+}
