@@ -3,7 +3,7 @@ var fs = require('fs');
 var ytdl = require('ytdl-core');
 var schedule = require('node-schedule');
 
-var token = '246903954:AAHucvoMpszEZXHbQImFpgdw-xUNJ9bQvyU';
+var token = '1099075611:AAEVXhfCA-paAHAQNEdGMJGiS5OuvoXpf-Y';
 // See https://developers.openshift.com/en/node-js-environment-variables.html
 var port = process.env.OPENSHIFT_NODEJS_PORT;
 var host = process.env.OPENSHIFT_NODEJS_IP;
